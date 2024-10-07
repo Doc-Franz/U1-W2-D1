@@ -21,6 +21,12 @@ REGOLE
 - undefined identifica la mancanza di assegnazione di una variabile o un errore nella dichiarazione della stessa
  */
 
+let stringa1 = "Stringa";
+let numero1 = 22;
+let bool1 = true;
+let null1 = null;
+let undefined1;
+
 /* ESERCIZIO 2
  Crea una variable chiamata "myName" e assegna ad essa il tuo nome, sotto forma di stringa.
 */
